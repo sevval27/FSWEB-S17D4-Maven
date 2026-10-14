@@ -57,8 +57,7 @@ Aşağıda istenilen sonuçlara ulaşabilmek için gerekli SQL sorgularını yaz
 	
 	
 	9) Öğrenciler tablosundaki en yaşlı öğrenciyi listeleyiniz.
-	
-	
+		
 	10) İkinci harfi E olan ogrencileri listeleyiniz.
 
 
